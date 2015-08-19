@@ -10,6 +10,7 @@
     <c:out value="${mappedvalue}"></c:out>
 
     <p>JSTL URL: ${url}</p>
+    	
 </body>
 
 </html>
